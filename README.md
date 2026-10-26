@@ -41,14 +41,6 @@ Hong Kong is warming, and the change is felt most in summer.
 - **Humidity left out.** Average relative humidity stayed between 76% and 79% in every decade, so it does not add to the story.
 - **Urban heat.** The station sits in a dense city, so part of the warming may come from urban growth around it, not only from climate change.
 
-## Run it
-
-```r
-# install.packages(c("tidyverse", "ggtext", "patchwork", "showtext"))
-source("hong_kong.R")   # writes hong_kong.png
-```
-
-Fonts (Playfair Display and Lato) are loaded from Google Fonts by `showtext`, so an internet connection is needed the first time.
 
 ## Repo layout
 
