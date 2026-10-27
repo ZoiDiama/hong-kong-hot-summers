@@ -38,7 +38,6 @@ Hong Kong is warming, and the change is felt most in summer.
 - **One station.** All values are measured at the Hong Kong Observatory headquarters in Tsim Sha Tsui, the longest continuous record in Hong Kong. Other parts of the territory can be hotter or wetter.
 - **Period.** The analysis covers 1953–2025: every year in this period has a complete daily record of all three indicators. The data for 2026 are left out because the year is not over.
 - **Trace rainfall.** Days marked "Trace" (less than 0.05 mm) are counted as 0 mm.
-- **Humidity left out.** Average relative humidity stayed between 76% and 79% in every decade, so it does not add to the story.
 - **Urban heat.** The station sits in a dense city, so part of the warming may come from urban growth around it, not only from climate change.
 
 
